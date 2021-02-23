@@ -1,0 +1,13 @@
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\obj\Debug\netcoreapp3.1\Uebungsaufgabe.csprojAssemblyReference.cache
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\obj\Debug\netcoreapp3.1\Uebungsaufgabe.AssemblyInfoInputs.cache
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\obj\Debug\netcoreapp3.1\Uebungsaufgabe.AssemblyInfo.cs
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\obj\Debug\netcoreapp3.1\Uebungsaufgabe.csproj.CoreCompileInputs.cache
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\bin\Debug\netcoreapp3.1\Uebungsaufgabe.exe
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\bin\Debug\netcoreapp3.1\Uebungsaufgabe.deps.json
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\bin\Debug\netcoreapp3.1\Uebungsaufgabe.runtimeconfig.json
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\bin\Debug\netcoreapp3.1\Uebungsaufgabe.runtimeconfig.dev.json
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\bin\Debug\netcoreapp3.1\Uebungsaufgabe.dll
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\bin\Debug\netcoreapp3.1\Uebungsaufgabe.pdb
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\obj\Debug\netcoreapp3.1\Uebungsaufgabe.dll
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\obj\Debug\netcoreapp3.1\Uebungsaufgabe.pdb
+C:\Users\lvalladares\source\repos\Uebungsaufgabe\Uebungsaufgabe\obj\Debug\netcoreapp3.1\Uebungsaufgabe.genruntimeconfig.cache
