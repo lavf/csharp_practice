@@ -1,0 +1,13 @@
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\bin\Debug\netcoreapp3.1\AppFuerGrundberechnungen.exe
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\bin\Debug\netcoreapp3.1\AppFuerGrundberechnungen.deps.json
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\bin\Debug\netcoreapp3.1\AppFuerGrundberechnungen.runtimeconfig.json
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\bin\Debug\netcoreapp3.1\AppFuerGrundberechnungen.runtimeconfig.dev.json
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\bin\Debug\netcoreapp3.1\AppFuerGrundberechnungen.dll
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\bin\Debug\netcoreapp3.1\AppFuerGrundberechnungen.pdb
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\obj\Debug\netcoreapp3.1\AppFuerGrundberechnungen.csprojAssemblyReference.cache
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\obj\Debug\netcoreapp3.1\AppFuerGrundberechnungen.AssemblyInfoInputs.cache
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\obj\Debug\netcoreapp3.1\AppFuerGrundberechnungen.AssemblyInfo.cs
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\obj\Debug\netcoreapp3.1\AppFuerGrundberechnungen.csproj.CoreCompileInputs.cache
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\obj\Debug\netcoreapp3.1\AppFuerGrundberechnungen.dll
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\obj\Debug\netcoreapp3.1\AppFuerGrundberechnungen.pdb
+C:\Users\lvalladares\source\repos\AppFuerGrundberechnungen\AppFuerGrundberechnungen\obj\Debug\netcoreapp3.1\AppFuerGrundberechnungen.genruntimeconfig.cache
