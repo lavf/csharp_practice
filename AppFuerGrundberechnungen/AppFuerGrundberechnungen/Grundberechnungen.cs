@@ -28,6 +28,13 @@ namespace AppFuerGrundberechnungen
             Console.WriteLine($"Division: {a} durch {b} ist gleich {a / b}");
         }
 
-        
+        public double Mult(double a, double b)
+        {
+           return a * b;
+        }
+        public double Div(double a, double b)
+        {
+            return a / b;
+        }
     }
 }

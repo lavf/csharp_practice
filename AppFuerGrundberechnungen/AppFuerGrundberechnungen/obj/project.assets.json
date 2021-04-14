@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lvalladares\\Documents\\git_projects\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen.csproj",
+      "projectUniqueName": "C:\\Users\\lvalladares\\Source\\Repos\\lavf\\csharp_practice\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen.csproj",
       "projectName": "AppFuerGrundberechnungen",
-      "projectPath": "C:\\Users\\lvalladares\\Documents\\git_projects\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen.csproj",
+      "projectPath": "C:\\Users\\lvalladares\\Source\\Repos\\lavf\\csharp_practice\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen.csproj",
       "packagesPath": "C:\\Users\\lvalladares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lvalladares\\Documents\\git_projects\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen\\obj\\",
+      "outputPath": "C:\\Users\\lvalladares\\Source\\Repos\\lavf\\csharp_practice\\AppFuerGrundberechnungen\\AppFuerGrundberechnungen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
